@@ -4,7 +4,6 @@ Ghost is a free, open, simple blogging platform that's available to anyone who w
 
 Visit the project's website at [http://ghost.org](http://ghost.org)!
 
-
 ## Getting Started
 
 There are two main ways to get started with Ghost:
